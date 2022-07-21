@@ -1,2 +1,0 @@
-# inishell
-emm anu
